@@ -1,4 +1,6 @@
+<span style="color:red">
 # Bolt Projects
+</span>
 ## Whole Body Model Predicitve Control (WB-MPC)
 [Walking Bipedal Control](https://github.com/ConstantRoux/bipedal-control)  
 
