@@ -19,7 +19,7 @@
 [RRPR Arm Study](https://github.com/ConstantRoux/BE-RRPR)  
 
 ## C/Java Programming
-[RRPR Arm Study](https://github.com/gui-upssitech/projet-fil-rouge)  
+[Simple Search Engine](https://github.com/gui-upssitech/projet-fil-rouge)  
 
 ## Multithreading
 [C++/Python Multithreading](https://github.com/ConstantRoux/tp-multithreading)  
