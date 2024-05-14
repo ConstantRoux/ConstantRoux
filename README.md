@@ -6,6 +6,13 @@
 [Bolt ODRI Control Interface](https://github.com/ConstantRoux/odri_control_interface)  
 [Bolt example-robot-data](https://github.com/ConstantRoux/example-robot-data)  
 
+# Robotics Club Projects
+## Modular Robot
+[Modular Robot](https://github.com/Stand-UPS-Robotique/robot-modulaire)  
+
+## Snake Robot
+[Snakebot](https://github.com/Stand-UPS-Robotique/snakebot)  
+
 # School Projects
 ## Robotics 
 [Walking Quadrupedal Solo12](https://github.com/ConstantRoux/solo-pybullet)  
