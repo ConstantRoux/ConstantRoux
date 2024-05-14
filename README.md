@@ -23,6 +23,7 @@
 
 ## Human Machine Interface (HMI)
 [Multimodal Fusion](https://github.com/ConstantRoux/multimodal-fusion)  
+[Ingenuity Gate](https://github.com/BaptisteRamonda/ingenuity-gate)  
 
 # Personnal Projects
 [Kalman ROS Noetic](https://github.com/ConstantRoux/kalman-ros)  
