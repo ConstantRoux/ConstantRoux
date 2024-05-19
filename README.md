@@ -1,30 +1,30 @@
-# &rarr; Bolt Projects
-## Whole Body Model Predicitve Control (WB-MPC)
+# Bolt Projects
+## &rarr; Whole Body Model Predicitve Control (WB-MPC)
 [Walking Bipedal Control](https://github.com/ConstantRoux/bipedal-control)  
 
-## Utils
+## &rarr; Utils
 [Bolt ODRI Control Interface](https://github.com/ConstantRoux/odri_control_interface)  
 [Bolt example-robot-data](https://github.com/ConstantRoux/example-robot-data)  
 
 # Robotics Club Projects
-## Modular Robot
+## &rarr; Modular Robot
 [Modular Robot](https://github.com/Stand-UPS-Robotique/robot-modulaire)  
 
-## Snake Robot
+## &rarr; Snake Robot
 [Snakebot](https://github.com/Stand-UPS-Robotique/snakebot)  
 
 # School Projects
-## Robotics 
+## &rarr; Robotics 
 [Walking Quadrupedal Solo12](https://github.com/ConstantRoux/solo-pybullet)  
 [RRPR Arm Study](https://github.com/ConstantRoux/BE-RRPR)  
 
-## C/Java Programming
+## &rarr; C/Java Programming
 [Simple Search Engine](https://github.com/gui-upssitech/projet-fil-rouge)  
 
-## Multithreading
+## &rarr; Multithreading
 [C++/Python Multithreading](https://github.com/ConstantRoux/tp-multithreading)  
 
-## Human Machine Interface (HMI)
+## &rarr; Human Machine Interface (HMI)
 [Multimodal Fusion](https://github.com/ConstantRoux/multimodal-fusion)  
 [Ingenuity Gate](https://github.com/BaptisteRamonda/ingenuity-gate)  
 
